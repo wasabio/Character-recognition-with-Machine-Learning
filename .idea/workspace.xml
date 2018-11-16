@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2f1312e3-f3e1-41a5-b8b0-e3e49b26520f" name="Default Changelist" comment="" />
+    <list default="true" id="2f1312e3-f3e1-41a5-b8b0-e3e49b26520f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,35 +46,49 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="1627958970">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="873" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="873" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="csv" value="15" />
+          <entry key="pkl" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="PLAIN_TEXT" value="16" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="419">
+              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
               <folding>
                 <element signature="e#0#36#0" expanded="true" />
+                <marker date="1542308041589" expanded="true" signature="394:509" ph="..." />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Train.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-33045">
-              <caret column="8" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Info.csv">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -84,6 +102,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -94,9 +115,9 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="220" />
-    <option name="y" value="-9" />
+    <option name="y" value="-10" />
     <option name="width" value="1750" />
-    <option name="height" value="969" />
+    <option name="height" value="970" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -107,30 +128,18 @@
         <subPane>
           <expand>
             <path>
-              <item name="CharacterRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharacterRecognition" type="462c0819:PsiDirectoryNode" />
+              <item name="Character-recognition-with-ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Character-recognition-with-ML" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CharacterRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharacterRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
+              <item name="Character-recognition-with-ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Character-recognition-with-ML" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CharacterRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharacterRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="ds1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharacterRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharacterRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="datasets" type="462c0819:PsiDirectoryNode" />
-              <item name="ds2" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="CharacterRecognition" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CharacterRecognition" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Character-recognition-with-ML" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Character-recognition-with-ML" type="462c0819:PsiDirectoryNode" />
+              <item name="savedModels" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -140,10 +149,13 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Main.py" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Yann-PC\Documents\GitHub\Character-recognition-with-ML\datasets\ds1" />
+      <recent name="C:\Users\Yann-PC\Documents\GitHub\Character-recognition-with-ML\src" />
       <recent name="C:\Users\Yann-PC\PycharmProjects\CharacterRecognition\datasets" />
       <recent name="C:\Users\Yann-PC\PycharmProjects\CharacterRecognition\src" />
     </key>
@@ -169,11 +181,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Yann-PC\PycharmProjects\CharacterRecognition\src\Main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -203,19 +215,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2247191" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.35886526" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32907802" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.32907802" />
@@ -223,6 +234,9 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -243,23 +257,49 @@
     <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Info.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="12" lean-forward="true" selection-start-column="12" selection-end-column="12" />
+          <caret column="12" selection-start-column="12" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Train.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-33045">
-          <caret column="8" selection-end-line="1" />
+        <state relative-caret-position="153">
+          <caret line="41" column="11" selection-start-line="41" selection-end-line="42" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Test.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8376">
+          <caret line="3" column="36" lean-forward="true" selection-start-line="3" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/datasets/ds1/ds1Val.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8427" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ds1Test-nb.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/results/ds1Val-nb.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8413" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/savedModels/ds1-nb.pkl">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/Main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="419">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
           <folding>
             <element signature="e#0#36#0" expanded="true" />
+            <marker date="1542308041589" expanded="true" signature="394:509" ph="..." />
           </folding>
         </state>
       </provider>
